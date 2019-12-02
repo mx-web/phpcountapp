@@ -1,0 +1,12 @@
+{
+    "name": "mwa/php",
+    "require": {
+        "symfony/dotenv": "^4.3"
+    },
+    "authors": [
+        {
+            "name": "Max Walter",
+            "email": "Max.Walter@neos-it.de"
+        }
+    ]
+}
